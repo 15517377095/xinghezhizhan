@@ -1,5 +1,7 @@
 # 星河之战
 
+使用`flash` + `as3`开发的小游戏
+
 ## 主界面
 
 <img src="./readmeAccess/main.gif" width="300" />
